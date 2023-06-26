@@ -3,7 +3,7 @@
 
 <br />
 
-🖥 [**바로가기(Web)**](https://goorm-fullstack.github.io/Introduce-3355/) / 📱 [**바로가기(App)**](https://goorm-fullstack.github.io/Introduce-3355-App/)
+🖥 [**바로가기(Web)**](https://goorm-fullstack.github.io/Introduce3355/) / 📱 [**바로가기(App)**](https://goorm-fullstack.github.io/Introduce3355-App/)
 
 <br />
 
