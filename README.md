@@ -51,7 +51,7 @@
 
 ## 📝 화면 구성
 
-| 로딩 페이지 | 메인화면 | 조원소개 |
+| 로딩화면 | 메인화면 | 조원소개 |
 | :-: | :-: | :-: |
 | ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/f40b75c9-8de1-422a-9394-3e69ae20a415) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/7ab75963-578b-4fe7-aae4-bb1930bf8b2a) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b4683b42-d455-44d5-8949-ec387f2795c0) |
 
