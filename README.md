@@ -58,9 +58,9 @@
     <th>조원소개</th>
   </tr>
   <tr>
-    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/96b6550a-aae5-4e95-ac3b-8534df45693e</td>
-    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/a307821c-0ba9-4033-b6aa-92759c2a621c</td>
-    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/711fa0b1-f2cd-478a-9845-09e6fd529e46</td>
+    <td><video controls><source src="https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/96b6550a-aae5-4e95-ac3b-8534df45693e" type="video/webm"></video></td>
+    <td>![메인화면](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/a307821c-0ba9-4033-b6aa-92759c2a621c)</td>
+    <td>![조원소개](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/711fa0b1-f2cd-478a-9845-09e6fd529e46)</td>
   </tr>
 </table>
 
