@@ -51,18 +51,9 @@
 
 ## 📝 화면 구성
 
-<table>
-  <tr>
-    <th>로딩 페이지</th>
-    <th>메인화면</th>
-    <th>조원소개</th>
-  </tr>
-  <tr>
-    <td><video controls><source src="https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/96b6550a-aae5-4e95-ac3b-8534df45693e" type="video/webm"></video></td>
-    <td>![메인화면](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/a307821c-0ba9-4033-b6aa-92759c2a621c)</td>
-    <td>![조원소개](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/711fa0b1-f2cd-478a-9845-09e6fd529e46)</td>
-  </tr>
-</table>
+| 로딩 페이지 | 메인화면 | 조원소개 |
+| :-: | :-: | :-: |
+| ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/5772b38a-d12a-433b-a05d-2adc7560bd3d) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/5744f67d-3ca2-4eee-81d7-55097f0d49ec) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/26644840-ac15-4cd8-8062-f5757a804005) |
 
 <br />
 
