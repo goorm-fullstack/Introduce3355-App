@@ -53,7 +53,7 @@
 
 | 로딩화면 | 메인화면 | 조원소개 |
 | :-: | :-: | :-: |
-| ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/f40b75c9-8de1-422a-9394-3e69ae20a415) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/7ab75963-578b-4fe7-aae4-bb1930bf8b2a) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b4683b42-d455-44d5-8949-ec387f2795c0) |
+| ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/950f714e-36a4-4f91-b1ae-dc2e523707bb) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/0f0fd70f-ecd0-440d-a5d2-f60fc9ebd575) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b93e671c-2f99-4ab4-bc48-c6b93059d5d3) |
 
 <br />
 
