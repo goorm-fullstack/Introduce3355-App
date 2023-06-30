@@ -17,7 +17,7 @@
 
 | 김경규 | 문소희 | 배진환 | 이정원 |
 | :-: | :-: | :-: | :-: |
-| ![@WhiteKIM](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/24f71bb9-12bb-4b29-9e2b-73461af0635d) | ![@soheetech](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/24c6f23b-8952-4e02-9347-ba42f5b67bc8)|![@JinhwanB](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/c503b06b-188f-4041-abf8-4041093d80a0) |![@location132](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/275b401f-aa95-43a9-a41e-6f4482e8f3e4)|
+| ![@WhiteKIM](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/24f71bb9-12bb-4b29-9e2b-73461af0635d) | ![@soheetech](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/24c6f23b-8952-4e02-9347-ba42f5b67bc8)|![@JinhwanB](https://github.com/goorm-fullstack/Introduce-3355/assets/121299334/c503b06b-188f-4041-abf8-4041093d80a0) |![@location132](https://avatars.githubusercontent.com/u/132702102?s=400&u=6f737d6488385275e81424b52b6bcdc96fa3ce6a&v=4)|
 | [@WhiteKIM](https://github.com/WhiteKIM) | [@soheetech](https://github.com/soheetech) | [@JinhwanB](https://github.com/JinhwanB) | [@location132](https://github.com/location132) |
 | 조원 | 조원 | 조장 | 조원 |
 | 백엔드 개발자 | 풀스택 개발자 | 백엔드 개발자 | APP(iOS) 개발자 |
