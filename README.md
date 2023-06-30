@@ -50,20 +50,19 @@
 <br />
 
 ## 📝 화면 구성
-https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/96b6550a-aae5-4e95-ac3b-8534df45693e
 
-메인화면으로 들어가는 앱의 시작점
-
-
-
-https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/a307821c-0ba9-4033-b6aa-92759c2a621c
-
-메인화면 구성
-
-
-https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/711fa0b1-f2cd-478a-9845-09e6fd529e46
-
-현재 진행중인 조원소개 페이지
+<table>
+  <tr>
+    <th>로딩 페이지</th>
+    <th>메인화면</th>
+    <th>조원소개</th>
+  </tr>
+  <tr>
+    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/96b6550a-aae5-4e95-ac3b-8534df45693e</td>
+    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/a307821c-0ba9-4033-b6aa-92759c2a621c</td>
+    <td>https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/711fa0b1-f2cd-478a-9845-09e6fd529e46</td>
+  </tr>
+</table>
 
 <br />
 
