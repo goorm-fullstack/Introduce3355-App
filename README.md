@@ -51,11 +51,11 @@
 
 ## 📝 화면 구성
 
-| 로딩화면 | 메인화면 | 조원소개 |
+| 로딩화면 | 메인화면 | 조원소개 애니메이션 |
 | :-: | :-: | :-: |
 | ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/950f714e-36a4-4f91-b1ae-dc2e523707bb) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/0f0fd70f-ecd0-440d-a5d2-f60fc9ebd575) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b93e671c-2f99-4ab4-bc48-c6b93059d5d3) | 
-| 조원소개 | 로그인 | 피드백 수정 |
-![about me](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/57d33610-c364-4208-9ca2-19b99e55cf9f) | ![login](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/9609121d-3eee-4c9e-8e28-eeed56cf252b) | (![1](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/19dd0526-41e0-497b-812b-602f41fe0bb2) |
+| 피드백 수정 | 조원소개 상세 |
+![feedback](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/19dd0526-41e0-497b-812b-602f41fe0bb2)| ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/0bb53a61-29aa-42d1-b67d-b4c89dff8eb9)
 
 
 
