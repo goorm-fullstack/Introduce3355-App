@@ -53,7 +53,12 @@
 
 | 로딩화면 | 메인화면 | 조원소개 |
 | :-: | :-: | :-: |
-| ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/950f714e-36a4-4f91-b1ae-dc2e523707bb) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/0f0fd70f-ecd0-440d-a5d2-f60fc9ebd575) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b93e671c-2f99-4ab4-bc48-c6b93059d5d3) |
+| ![load](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/950f714e-36a4-4f91-b1ae-dc2e523707bb) | ![index](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/0f0fd70f-ecd0-440d-a5d2-f60fc9ebd575) | ![member](https://github.com/goorm-fullstack/Introduce3355-App/assets/121299334/b93e671c-2f99-4ab4-bc48-c6b93059d5d3) | 
+| 조원소개 | 로그인 | 피드백 수정 |
+![about me](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/7d6a1c2c-937e-44da-afed-8189509b0655) | ![login](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/18101abb-4931-4f1a-bb38-83b6c8ed0a62) | ![feedback](https://github.com/goorm-fullstack/Introduce3355-App/assets/132702102/733039dd-6d8c-4869-a890-fa62a06c8f07) |
+
+
+
 
 <br />
 
@@ -96,6 +101,14 @@
 * 2023.06.28 이정원
   - 조원 소개 페이지 초안 제작중 ~ 6월30일 (진행중)
 
+* 2023.07.03 이정원
+  - 안드로이드 위젯 제작중 (진행중)
+ 
+* 2023.07.05 이정원
+  - firebase 필드 수정
+
+* 2023.07.07 이정원
+  - 로그인, 애니메이션, 피드백 수정 기능 추가 (완료)
 <br />
 
 ## 🎉 에필로그: TOP5!
