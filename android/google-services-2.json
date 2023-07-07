@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "393978834059",
+    "project_id": "goorm3355",
+    "storage_bucket": "goorm3355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393978834059:android:56392799d50812148bf88e",
+        "android_client_info": {
+          "package_name": "com.example.goorm_3355"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393978834059-12iio3dcvsouskrhteois18jribaaok6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDm1PgRC-Uxv1t86HP-ky_KKSni6sZfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393978834059-12iio3dcvsouskrhteois18jribaaok6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393978834059-k6c0g8i8q55j90n4k50q81p8lkap88mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goorm3355"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
